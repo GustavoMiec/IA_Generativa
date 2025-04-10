@@ -72,4 +72,4 @@ Escolha:
 
 ## ✨ Créditos
 
-Feito por [Seu Nome](https://github.com/seu-usuario) ✨
+Feito por [GustavoMiec](https://github.com/seu-usuario) ✨
